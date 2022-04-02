@@ -28,3 +28,7 @@
     PHP是一种HTML 内嵌式脚本语言；
 
   
+
+## PhpStorm 开发环境配置
+
+貌似 PhpStorm 只认 /usr/bin/php，php安装到其他目录的话，需要创建一个 /usr/bin/php的软链接。
